@@ -49,5 +49,3 @@ Here are some ideas to take this project further:
 🌍 Convert it into a **REST API** using Spring Boot
 
 ---
-
-> 💬 Want a UI version, advanced recommendation logic, or CSV downloader? Just ask!
